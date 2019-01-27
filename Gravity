@@ -17,6 +17,8 @@
    Call init at server start and update each frame in a server script.
    
    I have added this here as I have removed it from my Rocket System (at v2).
+   
+   Written by Sublivion.
 --]]
 
 -- Constants
