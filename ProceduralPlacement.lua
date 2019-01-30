@@ -5,11 +5,7 @@
 	license. Copyright and license notices must be preserved. Contributors provide an express grant of 
 	patent rights.
 	
-	Places items procedurally.
-	
-	Written to place shrub meshes around desert.
-	
-	Written for use in the command line however does work in-game.
+	https://github.com/Sublivion/Useful-Scripts
 	
 	Written by Sublivion 27/1/19.
 --]]
