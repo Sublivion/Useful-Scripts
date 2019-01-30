@@ -6,6 +6,8 @@
 	patent rights.
   
   A module to simulate accurate gravity and planets in Roblox.
+
+  https://github.com/Sublivion/Useful-Scripts
   
   To create a planet, add a module named Gravity like this into your model:
     return {
